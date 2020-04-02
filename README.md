@@ -26,6 +26,6 @@ Los mapas descriptivos con los datos diarios actualizados y las predicciones a c
 ## Referencias
 [Etxeberria, J., Goicoa, T., Ugarte, M.D., and Militino, A.F. (2014). Evaluating space-time models for short-term cancer mortality risk predictions in small areas. _Biometrical Journal_, __56(3)__, 383-402.](https://doi.org/10.1002/bimj.201200259)
 
-[Rue, H., Martino, S., & Chopin, N. (2009). Estimation and extrapolation of time trends in registry data - borrowing strength from related populations. _Journal of the royal statistical society: Series b (statistical methodology), __6(1)__, 304-333.]( https://doi.org/10.1111/j.1467-9868.2008.00700.x)
+[Rue, H., Martino, S., & Chopin, N. (2009). Estimation and extrapolation of time trends in registry data - borrowing strength from related populations. _Journal of the Royal Statistical Society: Series B (statistical methodology), __6(1)__, 304-333.]( https://doi.org/10.1111/j.1467-9868.2008.00700.x)
 
 [Ugarte, M.D., Adin, A., Goicoa, T., and Militino, A.F. (2014). On fitting spatio-temporal disease mapping models using approximate Bayesian inference. _Statistical Methods in Medical Research_, __23(6)__, 507-530.](https://doi.org/10.1177/0962280214527528)
