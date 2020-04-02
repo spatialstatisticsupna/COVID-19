@@ -17,6 +17,7 @@ Los modelos espacio-temporales utilizados están descritos en Ugarte et al. (201
 Se han utilizado diversos criterios para seleccionar el mejor modelo en términos de complejidad y bondad de ajuste (DIC and WAIC) así como dos reglas que permiten evaluar la capacidad predictiva del modelo: el log-score y  la regla de de Dawid–Sebastiani (DSS).
 
 
+
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comundidades Autónomas de España están disponibles en el siguiente enlace:
 [INSERTAR ENLACE]()
