@@ -22,6 +22,8 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
 [COVID-19_20200402.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200402.html)
 
+Archivos anteriores: [Directorio](https://emi-sstcdapp.unavarra.es/COVID-19/)
+
 
 ## Referencias
 [Etxeberria, J., Goicoa, T., Ugarte, M.D., and Militino, A.F. (2014). Evaluating space-time models for short-term cancer mortality risk predictions in small areas. _Biometrical Journal_, __56(3)__, 383-402.](https://doi.org/10.1002/bimj.201200259)
