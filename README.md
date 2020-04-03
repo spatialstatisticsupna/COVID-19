@@ -20,7 +20,7 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[INSERTAR ENLACE](https://github.com/spatialstatisticsupna/COVID-19/blob/master/html/COVID-19_20200302.html)
+[INSERTAR ENLACE](https://github.com/spatialstatisticsupna/COVID-19/blob/master/html/COVID-19_20200402.html)
 
 
 ## Referencias
