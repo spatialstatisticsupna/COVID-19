@@ -23,6 +23,8 @@ Los mapas descriptivos con los datos diarios actualizados y las predicciones a c
 
 Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/)
 
+_NOTA: Para las comunidades de Castilla y León, Castilla la Mancha, Madrid, Comunidad Valenciana y Murcia, las variables "hospitalizados" y "UCI" son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
+
 
 ## Referencias
 [Etxeberria, J., Goicoa, T., Ugarte, M.D., and Militino, A.F. (2014). Evaluating space-time models for short-term cancer mortality risk predictions in small areas. _Biometrical Journal_, __56(3)__, 383-402.](https://doi.org/10.1002/bimj.201200259)
