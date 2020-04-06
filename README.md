@@ -23,7 +23,7 @@ Los mapas descriptivos con los datos diarios actualizados y las predicciones a c
 
 Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/)
 
-_NOTA: Para las comunidades de Castilla y León, Castilla-La Mancha, Madrid, Comunidad Valenciana y Murcia, las variables "hospitalizados" y "UCI" son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
+_NOTA: Para las comunidades de Castilla y León, Castilla-La Mancha, Madrid y Comunidad Valenciana las variables "hospitalizados" y "UCI", para esta última también en Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
 
 
 ## Referencias
