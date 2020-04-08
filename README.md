@@ -26,6 +26,57 @@ Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/
 _NOTA: Para las comunidades de Castilla y León, Castilla-La Mancha, Madrid y Comunidad Valenciana las variables "hospitalizados" y "UCI", para esta última también en Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
 
 
+### Validación de las predicciones
+
+__Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día por Comunidad Autónoma.
+
+|                   | Casos confirmados | Fallecidos | Hospitalizados | UCI |
+|:------------------|-----:|-----:|-----:|-----:|
+|Andalucía          |  1.34|  2.42|  1.42|  9.12|
+|Aragón             |  1.32|  5.92|  1.56|  5.40|
+|Asturias           |  1.82|  5.70|  1.86|  4.58|
+|Baleares           |  1.56|  6.75|  2.99|  3.65|
+|C. Valenciana      |  1.21|  2.20|  3.42|  1.99|
+|Canarias           |  1.66|  7.32|  3.02|  5.39|
+|Cantabria          |  1.00|  8.02|  0.83|  4.27|
+|Castilla-La Mancha |  1.50|  1.71|  2.87|  2.29|
+|Castilla y León    |  1.11|  2.21|  1.95|  2.48|
+|Cataluña           |  1.55|  1.75|  2.57|  3.58|
+|Extremadura        |  2.13|  5.27|  6.37|  6.15|
+|Galicia            |  1.20|  3.88|  2.39|  4.46|
+|La Rioja           |  1.06|  3.39|  2.15|  4.17|
+|Madrid             |  1.20|  0.73|  1.42|  1.12|
+|Murcia             |  1.03| 11.96|  6.80|  4.75|
+|Navarra            |  1.25|  4.34|  1.86|  3.18|
+|País Vasco         |  1.32|  1.50|  1.41|  1.74|
+|ESPAÑA             |  0.93|  1.01|  1.90|  1.82|
+
+
+__Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 días por Comunidad Autónoma.
+
+|                   | Casos confirmados | Fallecidos | Hospitalizados | UCI |
+|:------------------|------:|------:|------:|------:|
+|Andalucía          |   4.84|   4.29|   5.37|  13.89|
+|Aragón             |   4.56|  14.17|   4.34|  11.46|
+|Asturias           |   4.38|  10.90|   4.98|  11.21|
+|Baleares           |   4.47|  12.29|   9.22|   9.70|
+|C. Valenciana      |   3.90|   5.47|   7.81|   5.18|
+|Canarias           |   3.21|  16.20|   5.98|  11.68|
+|Cantabria          |   1.97|  17.51|   3.00|   9.54|
+|Castilla-La Mancha |   3.51|   3.44|   4.65|   5.14|
+|Castilla y León    |   3.47|   4.46|   4.62|   5.99|
+|Cataluña           |   3.59|   5.08|   6.22|   4.11|
+|Extremadura        |   4.30|  10.24|   8.56|  14.36|
+|Galicia            |   4.55|   8.40|   6.53|  11.71|
+|La Rioja           |   2.84|   4.73|   5.36|   8.84|
+|Madrid             |   3.83|   2.01|   4.06|   3.09|
+|Murcia             |   2.99|  20.03|  11.82|   8.82|
+|Navarra            |   3.42|   7.46|   3.88|   6.08|
+|País Vasco         |   3.83|   3.48|   3.74|   3.53|
+|ESPAÑA             |   3.09|   3.14|   2.90|   2.59|
+
+
+
 ## Referencias
 [Etxeberria, J., Goicoa, T., Ugarte, M.D., and Militino, A.F. (2014). Evaluating space-time models for short-term cancer mortality risk predictions in small areas. _Biometrical Journal_, __56(3)__, 383-402.](https://doi.org/10.1002/bimj.201200259)
 
