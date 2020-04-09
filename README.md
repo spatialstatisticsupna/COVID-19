@@ -73,7 +73,7 @@ __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 día
 |Murcia             |   2.59|  18.63|  10.96|   8.21|
 |Navarra            |   3.36|   7.20|   4.10|   5.67|
 |País Vasco         |   3.66|   3.44|   3.43|   3.29|
-|ESPAÑA             |   2.75|   2.83|       |   1.52|
+|ESPAÑA             |   2.75|   2.83|     * |   1.52|
 
 *_Datos no disponibles debido al cambio de criterio en la contabilización de los casos (acumulados en vez de prevalencia)._
 
