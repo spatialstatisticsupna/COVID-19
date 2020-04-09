@@ -19,14 +19,14 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[COVID-19_20200407.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200407.html)
+[COVID-19_20200408.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200408.html)
 
 Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/)
 
 _NOTA: Para las comunidades de Castilla y León, Castilla-La Mancha, Madrid y Comunidad Valenciana las variables "hospitalizados" y "UCI", para esta última también en Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
 
 
-### Validación de las predicciones
+### Validación de las predicciones (_actualizado el 08/04/2020_)
 
 __Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día por Comunidad Autónoma.
 
