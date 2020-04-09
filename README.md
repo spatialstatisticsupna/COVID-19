@@ -36,20 +36,20 @@ __Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día
 |Aragón             |  1.20|  5.44|  1.39|  5.11|
 |Asturias           |  1.66|  5.33|  1.64|  4.27|
 |Baleares           |  1.51|  7.17|  2.69|  3.29|
-|C. Valenciana      |  1.20|  1.99|      | 20.10|
+|C. Valenciana      |  1.20|  1.99|   *  |    * |
 |Canarias           |  1.56|  6.95|  2.69|  4.98|
 |Cantabria          |  0.95|  7.27|  0.76|  3.91|
 |Castilla-La Mancha |  1.35|  1.56|  2.68|  2.33|
-|Castilla y León    |  1.06|  2.21|      |  2.25|
+|Castilla y León    |  1.06|  2.21|    * |  2.25|
 |Cataluña           |  1.39|  1.72|  2.34|  3.17|
-|Extremadura        |  1.98|  4.87|      | 11.47|
+|Extremadura        |  1.98|  4.87|   *  |    * |
 |Galicia            |  1.07|  3.88|  2.26|  4.06|
 |La Rioja           |  1.16|  3.37|  1.98|  3.83|
 |Madrid             |  1.26|  0.71|  1.41|  1.06|
 |Murcia             |  1.00| 11.60|  6.13|  4.30|
 |Navarra            |  1.21|  4.20|  1.99|  2.78|
 |País Vasco         |  1.25|  1.51|  1.30|  1.66|
-|ESPAÑA             |  0.89|  0.99|      |  1.79|
+|ESPAÑA             |  0.89|  0.99|    * |  1.79|
 
 
 __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 días por Comunidad Autónoma.
@@ -60,13 +60,13 @@ __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 día
 |Aragón             |   4.04|  12.70|   3.80|  11.08|
 |Asturias           |   4.15|  10.12|   4.63|   9.76|
 |Baleares           |   3.95|  12.46|   8.09|   8.43|
-|C. Valenciana      |   3.70|   4.75|       |  18.11|
+|C. Valenciana      |   3.70|   4.75|     * |     * |
 |Canarias           |   2.86|  15.28|   5.22|  10.82|
 |Cantabria          |   2.02|  15.30|   2.71|   8.38|
 |Castilla-La Mancha |   3.27|   2.98|   5.86|   5.08|
-|Castilla y León    |   3.17|   4.58|       |   5.22|
+|Castilla y León    |   3.17|   4.58|     * |   5.22|
 |Cataluña           |   3.40|   4.66|   5.46|   4.01|
-|Extremadura        |   4.01|   9.03|       |  18.09|
+|Extremadura        |   4.01|   9.03|     * |     * |
 |Galicia            |   3.98|   8.62|   5.76|  10.13|
 |La Rioja           |   3.08|   4.13|   4.61|   7.58|
 |Madrid             |   3.50|   1.89|   3.74|   3.21|
@@ -74,6 +74,8 @@ __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 día
 |Navarra            |   3.36|   7.20|   4.10|   5.67|
 |País Vasco         |   3.66|   3.44|   3.43|   3.29|
 |ESPAÑA             |   2.75|   2.83|       |   1.52|
+
+*_Datos no disponibles debido al cambio de criterio en la contabilización de los casos (acumulados en vez de prevalencia)._
 
 
 ## Referencias
