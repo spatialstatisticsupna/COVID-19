@@ -26,55 +26,54 @@ Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/
 _NOTA: Para las comunidades de Castilla-La Mancha y Madrid las variables "hospitalizados" y "UCI", para esta última también en Castilla y León y Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
 
 
-### Validación de las predicciones (_actualizado el 08/04/2020_)
+### Validación de las predicciones (_actualizado el 09/04/2020_)
 
 __Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día por Comunidad Autónoma.
 
 |                   | Casos confirmados | Fallecidos | Hospitalizados | UCI |
 |:------------------|-----:|-----:|-----:|-----:|
-|Andalucía          |  1.34|  2.42|  1.42|  9.12|
-|Aragón             |  1.32|  5.92|  1.56|  5.40|
-|Asturias           |  1.82|  5.70|  1.86|  4.58|
-|Baleares           |  1.56|  6.75|  2.99|  3.65|
-|C. Valenciana      |  1.21|  2.20|  3.42|  1.99|
-|Canarias           |  1.66|  7.32|  3.02|  5.39|
-|Cantabria          |  1.00|  8.02|  0.83|  4.27|
-|Castilla-La Mancha |  1.50|  1.71|  2.87|  2.29|
-|Castilla y León    |  1.11|  2.21|  1.95|  2.48|
-|Cataluña           |  1.55|  1.75|  2.57|  3.58|
-|Extremadura        |  2.13|  5.27|  6.37|  6.15|
-|Galicia            |  1.20|  3.88|  2.39|  4.46|
-|La Rioja           |  1.06|  3.39|  2.15|  4.17|
-|Madrid             |  1.20|  0.73|  1.42|  1.12|
-|Murcia             |  1.03| 11.96|  6.80|  4.75|
-|Navarra            |  1.25|  4.34|  1.86|  3.18|
-|País Vasco         |  1.32|  1.50|  1.41|  1.74|
-|ESPAÑA             |  0.93|  1.01|  1.90|  1.82|
+|Andalucía          |  1.19|  2.16|  1.25|  8.19|
+|Aragón             |  1.20|  5.44|  1.39|  5.11|
+|Asturias           |  1.66|  5.33|  1.64|  4.27|
+|Baleares           |  1.51|  7.17|  2.69|  3.29|
+|C. Valenciana      |  1.20|  1.99|      | 20.10|
+|Canarias           |  1.56|  6.95|  2.69|  4.98|
+|Cantabria          |  0.95|  7.27|  0.76|  3.91|
+|Castilla-La Mancha |  1.35|  1.56|  2.68|  2.33|
+|Castilla y León    |  1.06|  2.21|      |  2.25|
+|Cataluña           |  1.39|  1.72|  2.34|  3.17|
+|Extremadura        |  1.98|  4.87|      | 11.47|
+|Galicia            |  1.07|  3.88|  2.26|  4.06|
+|La Rioja           |  1.16|  3.37|  1.98|  3.83|
+|Madrid             |  1.26|  0.71|  1.41|  1.06|
+|Murcia             |  1.00| 11.60|  6.13|  4.30|
+|Navarra            |  1.21|  4.20|  1.99|  2.78|
+|País Vasco         |  1.25|  1.51|  1.30|  1.66|
+|ESPAÑA             |  0.89|  0.99|      |  1.79|
 
 
 __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 días por Comunidad Autónoma.
 
 |                   | Casos confirmados | Fallecidos | Hospitalizados | UCI |
 |:------------------|------:|------:|------:|------:|
-|Andalucía          |   4.84|   4.29|   5.37|  13.89|
-|Aragón             |   4.56|  14.17|   4.34|  11.46|
-|Asturias           |   4.38|  10.90|   4.98|  11.21|
-|Baleares           |   4.47|  12.29|   9.22|   9.70|
-|C. Valenciana      |   3.90|   5.47|   7.81|   5.18|
-|Canarias           |   3.21|  16.20|   5.98|  11.68|
-|Cantabria          |   1.97|  17.51|   3.00|   9.54|
-|Castilla-La Mancha |   3.51|   3.44|   4.65|   5.14|
-|Castilla y León    |   3.47|   4.46|   4.62|   5.99|
-|Cataluña           |   3.59|   5.08|   6.22|   4.11|
-|Extremadura        |   4.30|  10.24|   8.56|  14.36|
-|Galicia            |   4.55|   8.40|   6.53|  11.71|
-|La Rioja           |   2.84|   4.73|   5.36|   8.84|
-|Madrid             |   3.83|   2.01|   4.06|   3.09|
-|Murcia             |   2.99|  20.03|  11.82|   8.82|
-|Navarra            |   3.42|   7.46|   3.88|   6.08|
-|País Vasco         |   3.83|   3.48|   3.74|   3.53|
-|ESPAÑA             |   3.09|   3.14|   2.90|   2.59|
-
+|Andalucía          |   4.19|   4.42|   4.65|  13.15|
+|Aragón             |   4.04|  12.70|   3.80|  11.08|
+|Asturias           |   4.15|  10.12|   4.63|   9.76|
+|Baleares           |   3.95|  12.46|   8.09|   8.43|
+|C. Valenciana      |   3.70|   4.75|       |  18.11|
+|Canarias           |   2.86|  15.28|   5.22|  10.82|
+|Cantabria          |   2.02|  15.30|   2.71|   8.38|
+|Castilla-La Mancha |   3.27|   2.98|   5.86|   5.08|
+|Castilla y León    |   3.17|   4.58|       |   5.22|
+|Cataluña           |   3.40|   4.66|   5.46|   4.01|
+|Extremadura        |   4.01|   9.03|       |  18.09|
+|Galicia            |   3.98|   8.62|   5.76|  10.13|
+|La Rioja           |   3.08|   4.13|   4.61|   7.58|
+|Madrid             |   3.50|   1.89|   3.74|   3.21|
+|Murcia             |   2.59|  18.63|  10.96|   8.21|
+|Navarra            |   3.36|   7.20|   4.10|   5.67|
+|País Vasco         |   3.66|   3.44|   3.43|   3.29|
+|ESPAÑA             |   2.75|   2.83|       |   1.52|
 
 
 ## Referencias
