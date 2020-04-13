@@ -51,7 +51,7 @@ __Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día
 |Murcia             |  1.72|  0.88| 10.73|  4.73|  3.52|
 |Navarra            |  1.00|  1.20|  3.18|  2.07|  1.99|
 |País Vasco         |  2.86|  1.16|  1.49|  1.10|  1.20|
-|ESPAÑA             |  0.44|  0.79|  0.91|  $-$ |  $-$ |
+|ESPAÑA             |  0.44|  0.79|  0.91|      |      |
 
 
 __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 días por Comunidad Autónoma.
@@ -75,7 +75,7 @@ __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 día
 |Murcia             |   3.17|   2.28|  17.63|   8.90|   6.65|
 |Navarra            |   1.74|   2.59|   5.72|   3.89|   3.98|
 |País Vasco         |   6.28|   3.13|   3.15|   2.68|   2.46|
-|ESPAÑA             |   0.64|   2.52|   2.46|   $-$ |   $-$ |
+|ESPAÑA             |   0.64|   2.52|   2.46|       |       |
 
 
 *_Datos calculados teniendo en cuenta las predicciones posteriores al 08/04 debido al cambio de criterio en la contabilización de los casos (acumulados en vez de prevalencia)._
