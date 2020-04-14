@@ -19,7 +19,7 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[COVID-19_20200412.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200412.html)
+[COVID-19_20200413.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200413.html)
 
 Para los análisis posteriores al 07/04/2020, se ha incluido la variable que recoge los casos activos en cada comunidad, la cuál excluye a los pacientes que se han recuperado o han fallecido.
 
@@ -28,55 +28,54 @@ Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/
 _NOTA: Para las comunidades de Castilla-La Mancha y Madrid las variables "hospitalizados" y "UCI", para esta última también en Castilla y León y Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
 
 
-### Validación de las predicciones (_actualizado el 13/04/2020_)
+### Validación de las predicciones (_actualizado el 14/04/2020_)
 
 __Tabla 1:__ Promedios de los errores relativos (%) en las predicciones a 1 día por Comunidad Autónoma.
 
 |                   | Casos Activos | Casos confirmados | Fallecidos | Hospitalizados | UCI |
 |:------------------|-----:|-----:|-----:|-----:|-----:|
-|Andalucía          |  0.72|  1.01|  2.29|  1.20|  6.24|
-|Aragón             |  0.95|  0.98|  4.63|  1.12|  4.19|
-|Asturias           |  2.29|  1.46|  4.69|  1.37|  3.89|
-|Baleares           |  4.12|  1.28|  5.60|  2.33|  2.49|
-|C. Valenciana      |  1.64|  1.09|  1.90| 1.91*| 2.47*|
-|Canarias           |  1.68|  1.39|  5.42|  2.32|  3.73|
-|Cantabria          |  1.27|  0.98|  5.78|  0.71|  3.05|
-|Castilla-La Mancha |  1.39|  1.36|  1.47|  2.68|  2.39|
-|Castilla y León    |  1.12|  0.97|  1.72| 0.45*|  0.85|
-|Cataluña           |  1.37|  1.32|  1.35|  1.73|  2.34|
-|Extremadura        |  2.00|  1.90|  3.87| 2.81*| 8.18*|
-|Galicia            |  0.38|  0.92|  3.14|  1.92|  2.94|
-|La Rioja           |  3.74|  1.29|  2.87|  1.71|  2.90|
-|Madrid             |  1.78|  1.09|  0.74|  1.25|  1.05|
-|Murcia             |  1.72|  0.88| 10.73|  4.73|  3.52|
-|Navarra            |  1.00|  1.20|  3.18|  2.07|  1.99|
-|País Vasco         |  2.86|  1.16|  1.49|  1.10|  1.20|
-|ESPAÑA             |  0.44|  0.79|  0.91|      |      |
+|Andalucía          |  0.62|  1.01|  2.47|  1.13|  5.92|
+|Aragón             |  1.10|  1.01|  4.29|  1.10|  3.92|
+|Asturias           |  2.31|  1.47|  4.38|  1.28|  3.66|
+|Baleares           |  4.55|  1.19|  5.30|  2.18|  2.35|
+|C. Valenciana      |  1.77|  1.08|  1.82| 1.64*| 2.18*|
+|Canarias           |  3.04|  1.35|  5.31|  2.19|  3.44|
+|Cantabria          |  1.16|  0.97|  5.47|  0.71|  2.92|
+|Castilla-La Mancha |  1.69|  1.29|  1.44|  2.53|  2.53|
+|Castilla y León    |  1.10|  0.90|  1.63| 0.47*|  0.75|
+|Cataluña           |  1.24|  1.29|  1.32|  1.63|  2.21|
+|Extremadura        |  2.83|  1.96|  3.64| 2.31*| 7.99*|
+|Galicia            |  0.51|  0.91|  3.16|  1.79|  2.83|
+|La Rioja           |  3.26|  1.22|  2.78|  1.73|  2.67|
+|Madrid             |  1.70|  1.05|  0.69|  1.35|  0.98|
+|Murcia             |  3.18|  0.82| 10.05|  4.60|  3.41|
+|Navarra            |  1.20|  1.24|  3.12|  1.99|  1.84|
+|País Vasco         |  2.73|  1.11|  1.52|  1.08|  1.13|
+|ESPAÑA             |  0.51|  0.75|  0.84|      |      |
 
 
 __Tabla 2:__ Promedios de los errores relativos (%) en las predicciones a 2 días por Comunidad Autónoma.
 
 |                   | Casos Activos | Casos confirmados | Fallecidos | Hospitalizados | UCI |
 |:------------------|------:|------:|------:|------:|------:|
-|Andalucía          |   1.06|   3.01|   4.08|   3.49|   9.65|
-|Aragón             |   1.03|   3.10|   9.95|   2.99|   9.06|
-|Asturias           |   3.00|   2.93|   8.20|   3.74|   7.88|
-|Baleares           |   5.89|   3.50|   9.89|   5.97|   5.89|
-|C. Valenciana      |   2.28|   3.14|   4.37|  4.32*|  5.68*|
-|Canarias           |   3.00|   2.60|  12.12|   4.39|   8.03|
-|Cantabria          |   2.11|   2.08|  11.68|   1.85|   6.43|
-|Castilla-La Mancha |   3.97|   3.55|   2.49|   5.58|   4.59|
-|Castilla y León    |   1.45|   2.40|   3.82|  1.64*|   1.66|
-|Cataluña           |   2.85|   3.11|   3.66|   4.02|   3.15|
-|Extremadura        |   4.31|   3.30|   7.32|  8.04*| 15.90*|
-|Galicia            |   0.54|   3.13|   6.97|   4.20|   7.07|
-|La Rioja           |   4.19|   2.95|   4.14|   3.68|   5.58|
-|Madrid             |   3.95|   3.33|   1.85|   3.16|   2.34|
-|Murcia             |   3.17|   2.28|  17.63|   8.90|   6.65|
-|Navarra            |   1.74|   2.59|   5.72|   3.89|   3.98|
-|País Vasco         |   6.28|   3.13|   3.15|   2.68|   2.46|
-|ESPAÑA             |   0.64|   2.52|   2.46|       |       |
-
+|Andalucía          |   1.03|   3.03|   4.56|   3.55|   9.36|
+|Aragón             |   1.09|   3.03|   9.48|   2.91|   8.31|
+|Asturias           |   3.83|   2.85|   7.57|   3.62|   7.30|
+|Baleares           |   6.50|   3.34|   9.13|   5.71|   5.51|
+|C. Valenciana      |   2.03|   3.08|   4.06|  3.90*|  4.86*|
+|Canarias           |   3.95|   2.51|  11.27|   4.19|   7.47|
+|Cantabria          |   2.06|   2.17|  10.98|   1.93|   6.22|
+|Castilla-La Mancha |   3.60|   3.25|   2.33|   5.74|   4.46|
+|Castilla y León    |   1.75|   2.33|   3.66|  1.66*|   1.57|
+|Cataluña           |   2.97|   3.16|   3.37|   3.79|   2.98|
+|Extremadura        |   5.18|   3.52|   6.79|  6.29*| 15.23*|
+|Galicia            |   0.61|   3.04|   6.88|   4.18|   6.67|
+|La Rioja           |   3.89|   2.84|   4.30|   3.84|   5.22|
+|Madrid             |   3.74|   3.13|   1.77|   3.02|   2.35|
+|Murcia             |   4.46|   2.30|  16.71|   8.42|   6.36|
+|Navarra            |   1.69|   2.60|   5.38|   3.70|   3.64|
+|País Vasco         |   6.16|   3.03|   3.30|   2.75|   2.32|
+|ESPAÑA             |   0.58|   2.45|   2.34|       |       |
 
 *_Datos calculados teniendo en cuenta las predicciones posteriores al 08/04 debido al cambio de criterio en la contabilización de los casos (acumulados en vez de prevalencia)._
 
