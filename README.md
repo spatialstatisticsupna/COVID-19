@@ -19,7 +19,7 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[COVID-19_20200420.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200420.html)
+[COVID-19_20200421.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200421.html)
 
 Para los análisis posteriores al 07/04/2020, se ha incluido la variable que recoge los casos activos en cada comunidad, la cuál excluye a los pacientes que se han recuperado o han fallecido.
 
