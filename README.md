@@ -21,12 +21,19 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
 [COVID-19_20200423.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200423.html)
 
-Para los análisis posteriores al 07/04/2020, se ha incluido la variable que recoge los casos activos en cada comunidad, la cuál excluye a los pacientes que se han recuperado o han fallecido.
+
 
 Archivos anteriores: [ver directorio](https://emi-sstcdapp.unavarra.es/COVID-19/)
 
-_NOTA: Para las comunidad de Madrid las variables "hospitalizados" y "UCI", para esta última también en Galicia, son datos de prevalencia (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación._
+_NOTAS_: 
 
+1. Para la comunidad de Madrid las variables "hospitalizados" y "UCI", para esta última también en Galicia, son __datos de prevalencia__ (personas ingresadas a fecha de hoy). Es decir, no reflejan el total de personas que han sido hospitalizadas o ingresadas en UCI a lo largo del periodo de notificación.
+
+2. Para los análisis posteriores al 07/04/2020, se ha incluido la variable que recoge los __casos activos__ en cada comunidad, la cuál excluye a los pacientes que se han recuperado o han fallecido.
+
+3. Para los análisis posteriores al 15/04/2020, Se ha incluido el mapa con la __tasa de letalidad__ (nº de fallecidos / nº de casos positivos) y su evolución en el tiempo. 
+
+4. Los datos de casos confirmados facilitados por el Ministerio a partir del 24/04/2020 corresponden al __total de personas con test positivo incluyendo PCR y positivos a test de anticuerpos__.
 
 
 ## Referencias
