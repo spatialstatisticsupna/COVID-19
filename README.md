@@ -33,7 +33,7 @@ _NOTAS_:
 
 3. Para los análisis posteriores al 15/04/2020, Se ha incluido el mapa con la __tasa de letalidad__ (nº de fallecidos / nº de casos positivos) y su evolución en el tiempo. 
 
-4. Los datos de casos confirmados facilitados por el Ministerio a partir del 24/04/2020 corresponden al __total de personas con test positivo incluyendo PCR y positivos a test de anticuerpos__.
+4. Para los análisis posteriores al 23/04/2020, los datos de casos confirmados corresponden al __total de personas con test positivo incluyendo PCR y positivos a test de anticuerpos__ (suma de las variables `PCR+` y `TestAc+` facilitadas por el Instituto de Salud Carlos III).
 
 
 ## Referencias
