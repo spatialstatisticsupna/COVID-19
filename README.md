@@ -31,7 +31,7 @@ _NOTAS_:
 
 2. Para los análisis posteriores al 07/04/2020, se ha incluido la variable que recoge los __casos activos__ en cada comunidad, la cuál excluye a los pacientes que se han recuperado o han fallecido.
 
-3. Para los análisis posteriores al 15/04/2020, Se ha incluido el mapa con la __tasa de letalidad__ (nº de fallecidos / nº de casos positivos) y su evolución en el tiempo. 
+3. Para los análisis posteriores al 15/04/2020, se ha incluido el mapa con la __tasa de letalidad__ (nº de fallecidos / nº de casos positivos) y su evolución en el tiempo. 
 
 4. Para los análisis posteriores al 23/04/2020, los datos de casos confirmados corresponden al __total de personas con test positivo incluyendo PCR y positivos a test de anticuerpos__ (suma de las variables `PCR+` y `TestAc+` facilitadas por el Instituto de Salud Carlos III).
 
