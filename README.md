@@ -19,7 +19,7 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[COVID-19_20200508.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200508.html)
+[COVID-19_20200509.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200509.html)
 
 
 
@@ -34,6 +34,8 @@ _NOTAS_:
 3. Para los análisis posteriores al 15/04/2020, se ha incluido el mapa con la __tasa de letalidad__ (nº de fallecidos / nº de casos positivos) y su evolución en el tiempo. 
 
 4. Para los análisis posteriores al 23/04/2020, los datos de casos confirmados corresponden al __total de personas con test positivo incluyendo PCR y positivos a test de anticuerpos__ (suma de las variables `PCR+` y `TestAc+` facilitadas por el Instituto de Salud Carlos III).
+
+5. Para los análisis posteriores al 09/05/2020, únicamente se consideran los __casos acumulados confirmados por PCR__ (variable `PCR+` facilitada por el Instituto de Salud Carlos III).
 
 
 ## Referencias
