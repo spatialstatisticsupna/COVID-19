@@ -37,6 +37,8 @@ _NOTAS_:
 
 5. Para los análisis posteriores al 09/05/2020, se han incorporado predicciones para las variables `PCR+` y `TestAc+`. Además, se han representado los __casos diarios__ de confirmados, fallecidos y altas, incluyendo la tendencia suavizada de los datos y las tasas de incremento respecto a los acumulados del día anterior.
 
+6. Para los análisis posteriores al 14/05/2020, se han incluido gráficos que muestran la __evolución del número total de casos confirmados__ para cada Comunidad Autónoma según sean casos actualmente en activo, personas recuperadas o que hayan fallecido.
+
 
 ## Referencias
 [Etxeberria, J., Goicoa, T., Ugarte, M.D., and Militino, A.F. (2014). Evaluating space-time models for short-term cancer mortality risk predictions in small areas. _Biometrical Journal_, __56(3)__, 383-402.](https://doi.org/10.1002/bimj.201200259)
