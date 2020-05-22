@@ -4,7 +4,7 @@ Este repositorio contiene mapas descriptivos de la situación diaria acumulada y
 ## Fuente de los datos
 
 - [Ministerio de Sanidad, Consumo y Bienestar Social](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
-- [Instituto de Salud Carlos III](https://covid19.isciii.es/)
+- [Instituto de Salud Carlos III](https://cnecovid.isciii.es/covid19/)
 
 
 ## Metodología
@@ -19,7 +19,7 @@ Se han utilizado diversos criterios para seleccionar el mejor modelo en término
 
 ## Resultados
 Los mapas descriptivos con los datos diarios actualizados y las predicciones a corto plazo para las Comunidades Autónomas españolas están disponibles en el siguiente enlace:
-[COVID-19_20200517.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200517.html)
+[COVID-19_20200520.html](https://emi-sstcdapp.unavarra.es/COVID-19/COVID-19_20200520.html)
 
 
 
@@ -38,6 +38,8 @@ _NOTAS_:
 5. Para los análisis posteriores al 09/05/2020, se han incorporado predicciones para las variables `PCR+` y `TestAc+`. Además, se han representado los __casos diarios__ de confirmados, fallecidos y altas, incluyendo la tendencia suavizada de los datos y las tasas de incremento respecto a los acumulados del día anterior.
 
 6. Para los análisis posteriores al 14/05/2020, se han incluido gráficos que muestran la __evolución del número total de casos confirmados__ para cada Comunidad Autónoma según sean casos actualmente en activo, personas recuperadas o que hayan fallecido.
+
+7. Para los análisis posteriores al 18/05/2020, tanto el Ministerio de Sanidad como el Instituto de Salud Carlos III han eliminado la serie completa de personas recuperadas, por lo que no es posible representar los `Casos Activos`, las `Nuevas Altas` ni la evoluciones de las Comunidades Autónomas en los documentos HTML.
 
 
 ## Referencias
