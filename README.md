@@ -39,7 +39,7 @@ _NOTAS_:
 
 6. Para los análisis posteriores al 14/05/2020, se han incluido gráficos que muestran la __evolución del número total de casos confirmados__ para cada Comunidad Autónoma según sean casos actualmente en activo, personas recuperadas o que hayan fallecido.
 
-7. Para los análisis posteriores al 18/05/2020, tanto el Ministerio de Sanidad como el Instituto de Salud Carlos III han eliminado la serie completa de personas recuperadas, por lo que no es posible representar los `Casos Activos`, las `Nuevas Altas` ni la `Evolución` de las Comunidades Autónomas en los documentos HTML.
+7. Para los análisis posteriores al 20/05/2020, tanto el Ministerio de Sanidad como el Instituto de Salud Carlos III han eliminado la serie completa de personas recuperadas, por lo que no es posible representar los `Casos Activos`, las `Nuevas Altas` ni la `Evolución` de las Comunidades Autónomas en los documentos HTML.
 
 
 ## Referencias
